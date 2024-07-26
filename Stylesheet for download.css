@@ -173,3 +173,9 @@ button {
   border-radius: 4px;
   cursor: pointer;
 }
+
+/* Disabing copy from website */
+body{
+  user-select: none;
+  }
+  

@@ -166,3 +166,9 @@ th.vertical-header {
   transform: rotate(180deg);
   height: 100px;
 }
+
+/* Disabing copy from website */
+body{
+  user-select: none;
+  }
+  
